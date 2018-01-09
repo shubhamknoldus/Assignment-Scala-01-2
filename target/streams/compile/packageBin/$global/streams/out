@@ -1,0 +1,33 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/assignment-scala-01-2_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/FactorialAndSum$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/FactorialAndSum$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/FactorialAndSum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/FactorialAndSum.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/StringInterpolation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/StringInterpolation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/FindMaxFromList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/FindMaxFromList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/StringInterpolation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/StringInterpolation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/FactorialAndSum$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/FactorialAndSum$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/StringInterpolation$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/StringInterpolation$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/FindMaxFromList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/FindMaxFromList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/Fibonacci$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/Fibonacci$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/Fibonacci$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/Fibonacci$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/FindMaxFromList$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/FindMaxFromList$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/asssignment_scala/solutions/Fibonacci.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-2/target/scala-2.12/classes/com/asssignment_scala/solutions/Fibonacci.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
